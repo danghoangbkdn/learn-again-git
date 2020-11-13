@@ -1,0 +1,3 @@
+TEST
+
+VS: 1.0-SNAPSHOT
