@@ -1,4 +1,4 @@
 TEST
 
-VS: 2.0-SNAPSHOT
+VS: 2.0
 
