@@ -1,3 +1,3 @@
 TEST
 
-VS: 1.1
+VS: 1.2-SNAPSHOT
